@@ -1,0 +1,237 @@
+
+2023-03-14T23:09:05.840151-------------------
+ServerConnection är online nu!
+2023-03-14T23:09:36.534530-------------------
+ServerConnection är online nu!
+2023-03-14T23:10:07.699356-------------------
+Online listan har skickats till: Mats
+2023-03-14T23:10:07.700138-------------------
+Mats har loggat in till servern!
+2023-03-14T23:11:08.327722-------------------
+ServerConnection är online nu!
+2023-03-14T23:11:29.880756-------------------
+ServerConnection är online nu!
+2023-03-14T23:11:51.501261-------------------
+ServerConnection är online nu!
+2023-03-14T23:13:39.905140-------------------
+ServerConnection är online nu!
+2023-03-14T23:13:56.974820-------------------
+Online listan har skickats till: Mats
+2023-03-14T23:13:56.975178-------------------
+Mats har loggat in till servern!
+2023-03-14T23:14:53.155952-------------------
+Mats inloggning misslyckat :(
+2023-03-15T08:41:52.944106-------------------
+ServerConnection är online nu!
+2023-03-15T08:42:28.220015-------------------
+Online listan har skickats till: Mats123
+2023-03-15T08:42:28.220603-------------------
+Mats123 har loggat in till servern!
+2023-03-15T08:42:59.830426-------------------
+Online listan har skickats till: Mats123
+2023-03-15T08:42:59.854604-------------------
+Online listan har skickats till: Ömer123
+2023-03-15T08:42:59.855161-------------------
+Ömer123 har loggat in till servern!
+2023-03-15T08:44:33.869623-------------------
+ServerConnection är online nu!
+2023-03-15T08:44:52.597966-------------------
+Online listan har skickats till: Mats213
+2023-03-15T08:44:52.598232-------------------
+Mats213 har loggat in till servern!
+2023-03-15T08:45:12.708460-------------------
+Online listan har skickats till: Ömer213321
+2023-03-15T08:45:12.709283-------------------
+Online listan har skickats till: Mats213
+2023-03-15T08:45:12.709421-------------------
+Ömer213321 har loggat in till servern!
+2023-03-15T08:49:15.772115-------------------
+ServerConnection är online nu!
+2023-03-15T08:49:39.573766-------------------
+Online listan har skickats till: Mats
+2023-03-15T08:49:39.574565-------------------
+Mats har loggat in till servern!
+2023-03-15T08:50:21.622228-------------------
+Online listan har skickats till: Ömer
+2023-03-15T08:50:21.623126-------------------
+Online listan har skickats till: Mats
+2023-03-15T08:50:21.623294-------------------
+Ömer har loggat in till servern!
+2023-03-15T08:51:39.596598-------------------
+ServerConnection är online nu!
+2023-03-15T08:52:09.100510-------------------
+Online listan har skickats till: Hossein
+2023-03-15T08:52:09.102227-------------------
+Hossein har loggat in till servern!
+2023-03-15T08:52:24.353515-------------------
+Online listan har skickats till: Adam
+2023-03-15T08:52:24.364900-------------------
+Online listan har skickats till: Hossein
+2023-03-15T08:52:24.369118-------------------
+Adam har loggat in till servern!
+2023-03-15T08:52:38.514520-------------------
+Online listan har skickats till: Adam
+2023-03-15T08:52:38.515466-------------------
+Online listan har skickats till: Hossein
+2023-03-15T08:52:38.520417-------------------
+Online listan har skickats till: Bashar
+2023-03-15T08:52:38.524174-------------------
+Bashar har loggat in till servern!
+2023-03-15T08:52:52.750154-------------------
+Online listan har skickats till: Adam
+2023-03-15T08:52:52.751688-------------------
+Online listan har skickats till: Hossein
+2023-03-15T08:52:52.752790-------------------
+Online listan har skickats till: Bashar
+2023-03-15T08:52:52.765950-------------------
+Online listan har skickats till: Oscar
+2023-03-15T08:52:52.766249-------------------
+Oscar har loggat in till servern!
+2023-03-15T08:53:44.511825-------------------
+Meddelandet skickades av client: Bashar till: Adam
+2023-03-15T08:54:17.400177-------------------
+Online listan har skickats till: Adam
+2023-03-15T08:54:17.400443-------------------
+Online listan har skickats till: Hossein
+2023-03-15T08:54:17.412091-------------------
+Online listan har skickats till: Bashar
+2023-03-15T08:54:17.412754-------------------
+har loggat ut
+2023-03-15T08:54:37.517899-------------------
+Oscarinte inloggad. Meddelandet sparas tills du loggar in igen.
+2023-03-15T08:54:49.070842-------------------
+Online listan har skickats till: Adam
+2023-03-15T08:54:49.074135-------------------
+Online listan har skickats till: Hossein
+2023-03-15T08:54:49.094927-------------------
+Online listan har skickats till: Bashar
+2023-03-15T08:54:49.102130-------------------
+Online listan har skickats till: Oscar
+2023-03-15T08:54:49.111905-------------------
+Meddelandet skickades av client: Adam till: Oscar
+2023-03-15T08:54:49.112054-------------------
+Meddelandet skickades från Servern
+2023-03-15T08:54:49.112231-------------------
+Oscar har loggat in till servern!
+2023-03-15T09:00:43.124463-------------------
+ServerConnection är online nu!
+2023-03-15T09:33:30.966063-------------------
+ServerConnection är online nu!
+2023-03-15T09:38:58.292266-------------------
+ServerConnection är online nu!
+2023-03-15T09:39:37.300113-------------------
+Online listan har skickats till: Oscar
+2023-03-15T09:39:37.302106-------------------
+Oscar har loggat in till servern!
+2023-03-15T09:39:54.911470-------------------
+Online listan har skickats till: Hossein
+2023-03-15T09:39:54.915989-------------------
+Online listan har skickats till: Oscar
+2023-03-15T09:39:54.916146-------------------
+Hossein har loggat in till servern!
+2023-03-15T09:40:13.320099-------------------
+Online listan har skickats till: Hossein
+2023-03-15T09:40:13.327346-------------------
+Online listan har skickats till: Bashar
+2023-03-15T09:40:13.327935-------------------
+Online listan har skickats till: Oscar
+2023-03-15T09:40:13.328061-------------------
+Bashar har loggat in till servern!
+2023-03-15T09:40:28.812295-------------------
+Online listan har skickats till: Adam
+2023-03-15T09:40:28.817991-------------------
+Online listan har skickats till: Hossein
+2023-03-15T09:40:28.819394-------------------
+Online listan har skickats till: Bashar
+2023-03-15T09:40:28.825847-------------------
+Online listan har skickats till: Oscar
+2023-03-15T09:40:28.826337-------------------
+Adam har loggat in till servern!
+2023-03-15T09:40:44.166644-------------------
+Online listan har skickats till: Adam
+2023-03-15T09:40:44.167144-------------------
+Online listan har skickats till: Hossein
+2023-03-15T09:40:44.167422-------------------
+Online listan har skickats till: Bashar
+2023-03-15T09:40:44.167546-------------------
+har loggat ut
+2023-03-15T09:40:53.493115-------------------
+Online listan har skickats till: Adam
+2023-03-15T09:40:53.496114-------------------
+Online listan har skickats till: Hossein
+2023-03-15T09:40:53.500172-------------------
+Online listan har skickats till: Bashar
+2023-03-15T09:40:53.504414-------------------
+Online listan har skickats till: Oscar1999
+2023-03-15T09:40:53.504580-------------------
+Oscar1999 har loggat in till servern!
+2023-03-15T09:41:54.128439-------------------
+Meddelandet skickades av client: Hossein till: Hossein
+2023-03-15T09:41:54.132094-------------------
+Meddelandet skickades av client: Hossein till: Adam
+2023-03-15T09:44:15.312084-------------------
+ServerConnection är online nu!
+2023-03-15T09:44:53.631683-------------------
+Online listan har skickats till: Hej
+2023-03-15T09:44:53.632737-------------------
+Hej har loggat in till servern!
+2023-03-15T09:47:38.961154-------------------
+ServerConnection är online nu!
+2023-03-15T09:47:58.025918-------------------
+Online listan har skickats till: Oscar
+2023-03-15T09:47:58.026755-------------------
+Oscar har loggat in till servern!
+2023-03-15T09:50:06.074456-------------------
+ServerConnection är online nu!
+2023-03-15T09:50:30.745950-------------------
+Online listan har skickats till: Oscar
+2023-03-15T09:50:30.747784-------------------
+Oscar har loggat in till servern!
+2023-03-15T09:50:59.003625-------------------
+Online listan har skickats till: Hejsan
+2023-03-15T09:50:59.018670-------------------
+Online listan har skickats till: Oscar
+2023-03-15T09:50:59.018845-------------------
+Hejsan har loggat in till servern!
+2023-03-15T09:51:16.325065-------------------
+Online listan har skickats till: Hejsan2
+2023-03-15T09:51:16.327959-------------------
+Online listan har skickats till: Hejsan
+2023-03-15T09:51:16.337083-------------------
+Online listan har skickats till: Oscar
+2023-03-15T09:51:16.337308-------------------
+Hejsan2 har loggat in till servern!
+2023-03-15T09:51:50.243330-------------------
+Hejsan2inte inloggad. Meddelandet sparas tills du loggar in igen.
+2023-03-15T09:52:02.700913-------------------
+Online listan har skickats till: Hejsan2
+2023-03-15T09:52:02.705792-------------------
+Online listan har skickats till: Hejsan
+2023-03-15T09:52:02.710182-------------------
+Online listan har skickats till: Oscar
+2023-03-15T09:52:02.712851-------------------
+Meddelandet skickades av client: Hejsan till: Hejsan2
+2023-03-15T09:52:02.713017-------------------
+Meddelandet skickades från Servern
+2023-03-15T09:52:02.713107-------------------
+Hejsan2 har loggat in till servern!
+2023-03-15T09:54:11.938973-------------------
+ServerConnection är online nu!
+2023-03-15T09:54:58.302056-------------------
+Online listan har skickats till: Mädz
+2023-03-15T09:54:58.309755-------------------
+Mädz har loggat in till servern!
+2023-03-15T09:55:17.432541-------------------
+Online listan har skickats till: yes man
+2023-03-15T09:55:17.437477-------------------
+Online listan har skickats till: Mädz
+2023-03-15T09:55:17.437646-------------------
+yes man har loggat in till servern!
+2023-03-15T09:55:41.251814-------------------
+Meddelandet skickades av client: Mädz till: yes man
+2023-03-15T09:55:59.804590-------------------
+Meddelandet skickades av client: yes man till: Mädz
+2023-03-15T09:57:25.118834-------------------
+Online listan har skickats till: yes man
+2023-03-15T09:57:25.119035-------------------
+har loggat ut
